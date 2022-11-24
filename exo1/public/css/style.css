@@ -111,3 +111,44 @@ padding-right: 40px;
 .navLink>a:hover{
     border-bottom: solid 3px black;  
 }
+
+main{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#MainHrParent{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.center-element{
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    font-family: Montserrat-medium;
+}
+
+.paragraphe{
+    margin-bottom: 50px;
+}
+
+.paragrapheB{
+    margin-bottom: 30px;
+}
+
+#MainHrShort{
+    width: 100px;
+}
+
+li::marker {
+    color: #9b009d;
+}
+
+#MainFirstTitle{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
